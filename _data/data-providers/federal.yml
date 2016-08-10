@@ -107,11 +107,11 @@ datasets:
 
   - curator: "IMLS"
     description: "Locations of museums"
-    url: "https://data.imls.gov/Museums-Count/Museum-Universe-Data-File-Map/2maj-yp6j"
+    url: "https://data.imls.gov/d/ku5e-zr2b"
 
   - curator: "IMLS"
     description: "Locations of public libraries"
-    url: "https://data.imls.gov/Public-Library-Survey-PLS-/Public-Library-Survey-Trend-File-1992-2012-Adminis/uzd7-qfwt"
+    url: "https://data.imls.gov/d/ucdn-7aur"
 
   - curator: "OMB"
     description: "Promise Zones and other place based initiatives boundaries CSV (also available as JSON)"
